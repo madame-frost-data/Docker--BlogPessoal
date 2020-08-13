@@ -15,7 +15,7 @@ services:
     ports:
       - "3308:3306"
     networks:
-      - generation-networks
+      - generation-network
   blogpessoal-api:
     restart: always
     build: ./blogpessoal-api

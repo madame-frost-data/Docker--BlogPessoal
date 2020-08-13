@@ -1,2 +1,2 @@
-# BlogWithSecurityBasic
-Conteúdo para aula Generation
+# blogPessoal-api
+API para blog pessoal, consumo em Angular.
